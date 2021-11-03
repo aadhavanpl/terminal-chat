@@ -1,0 +1,15 @@
+body {
+    font-size: 15pt;
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+#cmd {
+    outline: none;
+    background-color: transparent;
+    margin: 0;
+    width: 100%;
+    font: inherit;
+    border: none;
+    color: inherit;
+}
