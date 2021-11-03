@@ -14,3 +14,14 @@ body {
     border: none;
     color: inherit;
 }
+
+#output {
+    outline: none;
+    background-color: transparent;
+    margin: 0 0 0 9px;
+    width: 90%;
+    
+    font: inherit;
+    border: none;
+    color: inherit;
+}
