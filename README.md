@@ -1,2 +1,2 @@
-# terminal
-a terminal inspired texting web application
+# Terminal Chat
+A texting platform for terminal enthusiasts.
