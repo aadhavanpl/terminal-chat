@@ -1,2 +1,2 @@
-# Terminal Chat
+# terminal chat
 A texting platform for terminal enthusiasts.
