@@ -7,7 +7,7 @@ body {
 #cmd {
     outline: none;
     background-color: transparent;
-    margin: 0 0 0 7px;
+    margin: 0 0 0 0px;
     width: 90%;
     
     font: inherit;
@@ -18,10 +18,21 @@ body {
 #output {
     outline: none;
     background-color: transparent;
-    margin: 0 0 0 9px;
+    margin: 0 0 0 0px;
     width: 90%;
     
     font: inherit;
     border: none;
     color: inherit;
+}
+#without-space {
+    outline: none;
+    background-color: transparent;
+    margin: 0 0 0 0px;
+    width: 90%;
+    
+    font: inherit;
+    border: none;
+    color: inherit;
+    white-space: pre-wrap;
 }
